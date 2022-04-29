@@ -11,7 +11,7 @@ This project is concerned with the analysis of the effects of World War 2(WWII) 
 Algorithms
 In order to solve this problem, we have begun by gathering our data and will structure it in a way that will allow us to perform linear regression using Gradient Descent and the Normal Equation.
 The Gradient Descent equation is defined by ∇𝜙(𝐱)=2𝐉(𝐱)^(𝑇)𝐟(𝐱). Where delta phi(x) is the gradient, J(x) is the Jacobian, and f(x) is our function. Using Gradient descent will help us optimize our error. We will use the following formulation of our problem:
-latitude | longitude |  air pollution |  populationX3X4=T1946-T1936 | T1956-T1946
+[latitude | longitude |  air pollution |  population] [X3 | X4] = [T1946-T1936 | T1956-T1946]
 Where A is our latitude, longitude, air pollution change, and population change; x is our unknown, and T is the temperature differences between the years 1946 and 1936, and 1956 and 1946. We want to minimize our value for x as it will represent our error. A low error will show that our model is accurate in predicting the temperature change London experienced around WWII.
 The Normal Equation is defined by Ax=b. The formulation of our problem is the same as that used in Gradient Descent.
 
