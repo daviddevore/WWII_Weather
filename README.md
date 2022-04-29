@@ -1,10 +1,5 @@
 # The Effects of WW2 on London’s Weather and Air Quality
-David DeVore,
- Yash Patel
-, Caleb Emerson
-, Noah Meininger
-, George Rauta
-, and Akanksh Jain
+David DeVore, Yash Patel, Caleb Emerson, Noah Meininger, George Rauta, and Akanksh Jain
  
 # Our Problem
 This project is concerned with the analysis of the effects of World War 2(WWII) on the weather in London, United Kingdom. We are looking to find the relationship between the effects of WWII, including attacks, industry changes, and rebuilding and changes in the weather in the following decade. We will analyze temperature data starting in 1936, before WWII. and for the next 20 years after that, ending in 1956. The weather data was found through the United Kingdom's \emph{Met Office} which has an archive of "Daily Weather Reports." These reports occurred once every three months and kept track of all important weather fluctuations in London. For any given year in our time frame (stated above) we took all four "Daily Weather Reports" that occurred for that year and took the average minimum temperature and average maximum temperature. In addition to temperature data, we have also gathered data regarding the change in population as well as the change in air pollution measured SPM (Suspended Particulate Matter) that existed in London during the years in question. 
