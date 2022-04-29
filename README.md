@@ -1,6 +1,6 @@
 # The Effects of WW2 on London’s Weather and Air Quality
 David DeVore,
-, Yash Patel
+ Yash Patel
 , Caleb Emerson
 , Noah Meininger
 , George Rauta
